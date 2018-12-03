@@ -42,7 +42,7 @@ button{
   height: 100vh;
   justify-content: space-between;
 }
-.newUser, .signUp,.newjob{
+.newUser, .signUp,.newjob, .login{
   flex-grow: 7;
   display: flex;
   flex-flow: column;
